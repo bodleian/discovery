@@ -30,3 +30,6 @@ See also:
 
 * IIIF
   * Endpoint: http://preview.iiif.io/root/discovery_list/community/groups/discovery/registry_as.json
+
+* Bodleian
+  * Endpoint: https://iiif.bodleian.ox.ac.uk/iiif/activity/all-changes
